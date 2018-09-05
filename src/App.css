@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+.id{
+  background-image:url("https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+color:yellow;
+  height:500px;
+  width: 550px;
+  font-size:1.5em;
+
+}
+.reg{
+  background-image:url("https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  color:yellow;
+  height:500px;
+  width: 550px;
+  font-size:1.5em;
+
+}
+
+.App-header {
+  text-align: center;
+  background-color: #765;
+  height: 150px;
+  padding: 20px;
+  color: aqua;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+.backgrd
+{
+background-image: auto;
+  
+  }
+
+
+.App-intro {
+  font-size: large;
+}
+.items{
+ 
+  height:200;
+  width:200;
+  
+  }
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
